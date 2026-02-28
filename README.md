@@ -39,7 +39,17 @@ DesignForge empowers architects, interior designers, and creative professionals 
 
 ## 🏗️ Architecture
 
+### System Architecture
+![System Architecture](./System-Architecture-Dark.png)
+
+### Application Architecture
 ![DesignForge Architecture](./app_architecture.png)
+
+### Data Flow
+![Data Flow](./Data-Flow-Dark.png)
+
+### Database Schema
+![Database Schema](./Database-Schema-Dark.png)
 
 ## 🛠 Tech Stack
 
