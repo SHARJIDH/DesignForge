@@ -39,7 +39,7 @@ DesignForge empowers architects, interior designers, and creative professionals 
 
 ## 🏗️ Architecture
 
-![DesignForge Architecture](./app_archtecture.png)
+![DesignForge Architecture](./app_architecture.png)
 
 ## 🛠 Tech Stack
 
